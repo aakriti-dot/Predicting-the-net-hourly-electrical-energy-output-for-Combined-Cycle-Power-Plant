@@ -1,4 +1,4 @@
-# Predicting the net hourly electrical energy output for Combined Cycle Power Plant.
+# Predicting the net hourly electrical energy output for Combined Cycle Power Plant
 
 The dataset can be downloaded from : https://archive.ics.uci.edu/ml/datasets/Combined+Cycle+Power+Plant
 
